@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "data": "2024-08-01",
+        "dia_da_semana": "feriado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 2,
+        "data": "2024-08-02",
+        "dia_da_semana": "sexta-feira",
+        "faturamento": 1150.75,
+        "mes": "agosto"
+    },
+    {
+        "id": 3,
+        "data": "2024-08-03",
+        "dia_da_semana": "sábado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 4,
+        "data": "2024-08-04",
+        "dia_da_semana": "domingo",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 5,
+        "data": "2024-08-05",
+        "dia_da_semana": "segunda-feira",
+        "faturamento": 1300.30,
+        "mes": "agosto"
+    },
+    {
+        "id": 6,
+        "data": "2024-08-06",
+        "dia_da_semana": "terça-feira",
+        "faturamento": 1100.20,
+        "mes": "agosto"
+    },
+    {
+        "id": 7,
+        "data": "2024-08-07",
+        "dia_da_semana": "quarta-feira",
+        "faturamento": 1400.40,
+        "mes": "agosto"
+    },
+    {
+        "id": 8,
+        "data": "2024-08-08",
+        "dia_da_semana": "quinta-feira",
+        "faturamento": 1250.60,
+        "mes": "agosto"
+    },
+    {
+        "id": 9,
+        "data": "2024-08-09",
+        "dia_da_semana": "feriado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 10,
+        "data": "2024-08-10",
+        "dia_da_semana": "sábado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 11,
+        "data": "2024-08-11",
+        "dia_da_semana": "domingo",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 12,
+        "data": "2024-08-12",
+        "dia_da_semana": "segunda-feira",
+        "faturamento": 1350.80,
+        "mes": "agosto"
+    },
+    {
+        "id": 13,
+        "data": "2024-08-13",
+        "dia_da_semana": "terça-feira",
+        "faturamento": 1200.25,
+        "mes": "agosto"
+    },
+    {
+        "id": 14,
+        "data": "2024-08-14",
+        "dia_da_semana": "quarta-feira",
+        "faturamento": 1250.15,
+        "mes": "agosto"
+    },
+    {
+        "id": 15,
+        "data": "2024-08-15",
+        "dia_da_semana": "quinta-feira",
+        "faturamento": 1100.50,
+        "mes": "agosto"
+    },
+    {
+        "id": 16,
+        "data": "2024-08-16",
+        "dia_da_semana": "sexta-feira",
+        "faturamento": 1100.50,
+        "mes": "agosto"
+    },
+    {
+        "id": 17,
+        "data": "2024-08-17",
+        "dia_da_semana": "sábado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 18,
+        "data": "2024-08-18",
+        "dia_da_semana": "domingo",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 19,
+        "data": "2024-08-19",
+        "dia_da_semana": "segunda-feira",
+        "faturamento": 1400.60,
+        "mes": "agosto"
+    },
+    {
+        "id": 20,
+        "data": "2024-08-20",
+        "dia_da_semana": "terça-feira",
+        "faturamento": 1300.45,
+        "mes": "agosto"
+    },
+    {
+        "id": 21,
+        "data": "2024-08-21",
+        "dia_da_semana": "feriado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 22,
+        "data": "2024-08-22",
+        "dia_da_semana": "quinta-feira",
+        "faturamento": 1350.30,
+        "mes": "agosto"
+    },
+    {
+        "id": 23,
+        "data": "2024-08-23",
+        "dia_da_semana": "sexta-feira",
+        "faturamento": 500.70,
+        "mes": "agosto"
+    },
+    {
+        "id": 24,
+        "data": "2024-08-24",
+        "dia_da_semana": "sábado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 25,
+        "data": "2024-08-25",
+        "dia_da_semana": "domingo",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 26,
+        "data": "2024-08-26",
+        "dia_da_semana": "segunda-feira",
+        "faturamento": 1250.90,
+        "mes": "agosto"
+    },
+    {
+        "id": 27,
+        "data": "2024-08-27",
+        "dia_da_semana": "terça-feira",
+        "faturamento": 1300.75,
+        "mes": "agosto"
+    },
+    {
+        "id": 28,
+        "data": "2024-08-28",
+        "dia_da_semana": "quarta-feira",
+        "faturamento": 1400.80,
+        "mes": "agosto"
+    },
+    {
+        "id": 29,
+        "data": "2024-08-29",
+        "dia_da_semana": "quinta-feira",
+        "faturamento": 2000.60,
+        "mes": "agosto"
+    },
+    {
+        "id": 30,
+        "data": "2024-08-30",
+        "dia_da_semana": "feriado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    },
+    {
+        "id": 31,
+        "data": "2024-08-31",
+        "dia_da_semana": "sábado",
+        "faturamento": 0.00,
+        "mes": "agosto"
+    }
+]
