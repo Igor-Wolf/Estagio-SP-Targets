@@ -12,10 +12,9 @@ CÓDIGO FONTE QUE VOCÊ DESENVOLVEU
 '''
 
 palavra = "paralelepipedo"
-reverso = []
+final = ""
 
-for i in range(len(palavra)):
-    reverso.append(palavra[len(palavra)-1-i])
-
-final = ''.join(reverso)
+for i in range(len(palavra)): 
+    final = final + palavra[len(palavra)-1-i]
 print(final)
+
